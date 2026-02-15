@@ -1,8 +1,8 @@
-# Phaser 3 - Space Shooter Game
+# Phaser 3 - Mosquito Shooter Game
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-A fun arcade space shooter built with [Phaser 3](https://github.com/photonstorm/phaser)!
+A fun arcade mosquito shooter built with [Phaser 3](https://github.com/photonstorm/phaser)!
 
 This is the official code repository for the mosquito shooter game.
 

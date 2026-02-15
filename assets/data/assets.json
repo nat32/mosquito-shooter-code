@@ -1,0 +1,39 @@
+[
+  {
+    "path": "assets/images",
+    "files": [
+      {
+        "type": "image",
+        "key": "slipper",
+        "url": "slipper.png"
+      },
+      {
+        "type": "image",
+        "key": "drop",
+        "url": "drop.png"
+      },
+      {
+        "type": "image",
+        "key": "scout_mosquito",
+        "url": "mosquito.png"
+      },
+      {
+        "type": "image",
+        "key": "fighter_mosquito",
+        "url": "mosquito.png"
+      },
+      {
+        "type": "spritesheet",
+        "key": "scout_destroy",
+        "url": "scout_destroy.png",
+        "frameConfig": { "frameWidth": 64, "frameHeight": 64 }
+      },
+      {
+        "type": "spritesheet",
+        "key": "man",
+        "url": "man-spritesheet.png",
+        "frameConfig": { "frameWidth": 64, "frameHeight": 64 }
+      }
+    ]
+  }
+]
